@@ -14,7 +14,7 @@
 
 ## 🎓 Education
 - **Master’s in Data Science** – OsloMet (2025)  
-  *Thesis: "The Role of Data Science in Business Intelligence in Norwegian Businesses"*  
+  *Thesis: " The Use of Data Science to Augment Business Intelligence: A Design Science Research Approach"*  
 - **Bachelor’s in Computer Science** – Philippines  
 
 ---
@@ -59,7 +59,6 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/reynatojrmatencio)  
-- [GitHub](https://github.com/<your-username>)  
 
 ---
 
