@@ -19,7 +19,8 @@
 
 **Master’s Thesis (2025)**  
 *The Use of Data Science to Augment Business Intelligence: A DSR Approach* 
-Source: Matencio, R. M. (2025). *The Use of Data Science to Augment Business Intelligence: A DSR Approach*  [Thesis Article](https://oda.oslomet.no/oda-xmlui/handle/11250/3206142)
+Source: Matencio, R. M. (2025). *The Use of Data Science to Augment Business Intelligence: A DSR Approach* 
+[Thesis Article](https://oda.oslomet.no/oda-xmlui/handle/11250/3206142)
 
 
 - **Bachelor’s in Computer Science** – Philippines (2015)
