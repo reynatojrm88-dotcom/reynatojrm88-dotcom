@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Reynato Jr. Matencio  
+# Hi there 👋 I'm Reynato  
 
 🎓 **Master’s in Data Science** | 💻 **IT & Data Enthusiast** | 📊 **Business Intelligence Explorer**
 
