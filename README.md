@@ -14,7 +14,13 @@
 
 ## 🎓 Education
 - **Master’s in Data Science** – OsloMet (2025)  
-  *Thesis: " The Use of Data Science to Augment Business Intelligence: A Design Science Research Approach"*  
+
+## 📚 Publication  
+
+**Master’s Thesis (2025)**  
+*The Use of Data Science to Augment Business Intelligence: A DSR Approach*  
+Source: Matencio, R. M. (2025). *The Use of Data Science to Augment Business Intelligence*  
+
 - **Bachelor’s in Computer Science** – Philippines (2015)
 
 ---
