@@ -49,7 +49,6 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/reynatojrmatencio)  
-- [GitHub](https://github.com/reynatojrm88-dotcom>)  
 
 ---
 
