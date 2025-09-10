@@ -15,7 +15,7 @@
 ## 🎓 Education
 - **Master’s in Data Science** – OsloMet (2025)  
   *Thesis: " The Use of Data Science to Augment Business Intelligence: A Design Science Research Approach"*  
-- **Bachelor’s in Computer Science** – Philippines  
+- **Bachelor’s in Computer Science** – Philippines (2015)
 
 ---
 
