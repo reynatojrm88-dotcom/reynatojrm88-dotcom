@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Reynato  
+# Hi there 👋 I'm Reynato Jr. Matencio  
 
 🎓 **Master’s in Data Science** | 💻 **IT & Data Enthusiast** | 📊 **Business Intelligence Explorer**
 
@@ -14,7 +14,7 @@
 
 ## 🎓 Education
 - **Master’s in Data Science** – OsloMet (2025)  
-  *Thesis: "The Use of Data Science to Augment Business Intelligence: A Design Science Research Approach"*  
+  *Thesis: "The Role of Data Science in Business Intelligence in Norwegian Businesses"*  
 - **Bachelor’s in Computer Science** – Philippines  
 
 ---
@@ -47,8 +47,19 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+![Rey’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight)  
+
+---
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/reynatojrmatencio)  
+- [GitHub](https://github.com/<your-username>)  
 
 ---
 
